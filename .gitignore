@@ -1,0 +1,4 @@
+*.no-commit
+tmp
+etsy_api_guide
+*.pyc
